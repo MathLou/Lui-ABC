@@ -11,4 +11,4 @@ O robô quadrúpede desenvolvido como o meu projeto de iniciação científica e
     <li>Aqui você encontra os softwares embarcados e de simulação do espaço de trabalho do robô: TODO</li>
 </ul>
 
-Quaisquer dúvidas, me contacte via e-mail em lourenco.matheus@aluno.ufabc.edu.br.
+Quaisquer dúvidas, me contacte via e-mail em lourenco.matheus@aluno.ufabc.edu.br, saudações de Matheus Lourenço Aires de Pontes Siqueira ou MathMaker.
