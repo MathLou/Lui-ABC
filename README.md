@@ -12,4 +12,5 @@ O robô quadrúpede desenvolvido como projeto de iniciação científica em parc
 </ul>
 
 Quaisquer dúvidas, me contacte via e-mail em lourenco.matheus@aluno.ufabc.edu.br, saudações de Matheus Lourenço Aires de Pontes Siqueira ou MathMaker. 
-Agradecimentos ao meu orientador Dr. Magno Enrique Mendoza Meza.
+
+Agradecimentos ao meu orientador Dr. Magno Enrique Mendoza Meza, e à UFABC e CNPQ por ter tornado este projeto possível.
