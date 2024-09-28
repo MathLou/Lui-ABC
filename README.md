@@ -6,9 +6,9 @@ O meu robô quadrúpede desenvolvido como projeto de iniciação científica em 
 </div>
 
 <ul>
-    <li>Aqui você encontra o artigo relacionado ao robô: [Artigo](https://github.com/MathLou/Lui-ABC/blob/main/Artigo.pdf)</li>
-    <li>Aqui você encontra as peças para download: [Peças](https://github.com/MathLou/Lui-ABC/tree/main/Hardware)</li>
-    <li>Aqui você encontra os softwares embarcados e de simulação do espaço de trabalho do robô: [Softwares](github.com/MathLou/Lui-ABC/tree/main/Softwares)</li>
+    Aqui você encontra o artigo relacionado ao robô: [Artigo](https://github.com/MathLou/Lui-ABC/blob/main/Artigo.pdf)
+    Aqui você encontra as peças para download: [Peças](https://github.com/MathLou/Lui-ABC/tree/main/Hardware)
+    Aqui você encontra os softwares embarcados e de simulação do espaço de trabalho do robô: [Softwares](github.com/MathLou/Lui-ABC/tree/main/Softwares)
 </ul>
 
 Quaisquer dúvidas, me contacte via e-mail em lourenco.matheus@aluno.ufabc.edu.br, saudações de Matheus Lourenço Aires de Pontes Siqueira ou MathMaker. 
