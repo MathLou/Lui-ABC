@@ -129,15 +129,6 @@ decrease_p3 = False
 decrease_p4 = False
 # initial leg phases
 # trot gait
-# stence_leg1 = True
-# stence_leg2 = False
-# stence_leg3 = True
-# stence_leg4 = False
-# swing_leg1 = False
-# swing_leg2 = True
-# swing_leg3 = False
-# swing_leg4 = True
-# bound gait
 stence_leg1 = True
 stence_leg2 = True
 stence_leg3 = False
@@ -204,13 +195,6 @@ while True:
         j4 -= 1
     else:
         j4 += 1
-    # y += 1
-    # y translation
-    # inverse_kinematics(leg_1,0,y,L1)
-    # inverse_kinematics(leg_2,0,y,L1)
-    # inverse_kinematics(leg_3,0,y,L1)
-    # inverse_kinematics(leg_4,0,y,L1)
-    
     # semicricle path
     
     if swing_leg3:
