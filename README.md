@@ -9,7 +9,8 @@ O meu robô quadrúpede desenvolvido como projeto de iniciação científica em 
     <li>Aqui você encontra o artigo relacionado ao robô: <a href="https://github.com/MathLou/Lui-ABC/blob/main/Artigo.pdf">Artigo</a></li>
     <li>Aqui você encontra as peças para download: <a href="https://github.com/MathLou/Lui-ABC/tree/main/Hardware">Peças</a></li>
     <li>Aqui você encontra os softwares embarcados e de simulação do espaço de trabalho do robô: <a href="https://github.com/MathLou/Lui-ABC/tree/main/Softwares">Softwares</a></li>
-     <li>Aqui você encontra um vídeo demonstrativo do robô: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7212204018977169409/">Video Demonstrativo</a></li>
+    <li>Aqui você encontra um vídeo demonstrativo do robô: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7212204018977169409/">Video Demonstrativo</a></li>
+    <li>Aqui você encontra os arquivos para simulação em PyBullet: <a href="/">Simulação em PyBullet</a></li>
 </ul>
 
 
