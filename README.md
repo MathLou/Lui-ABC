@@ -3,7 +3,7 @@ O meu robô quadrúpede desenvolvido como projeto de iniciação científica em 
 <div style="text-align: center;">
   <img src = "https://github.com/MathLou/Lui-ABC/assets/35754208/9db59ad0-9adc-4394-836d-ee8bd893321b" width="400"><br>
   <img src="https://github.com/MathLou/Lui-ABC/assets/35754208/6456c91b-50b7-47d9-8f7c-569b0692205a" width="425">
-  <img scr="https://github.com/user-attachments/assets/d8f2f124-a3c7-4d1e-978e-4bd9d32c49a8">
+  <img scr="https://github.com/user-attachments/assets/d8f2f124-a3c7-4d1e-978e-4bd9d32c49a8" width='400">
 
 </div>
 
